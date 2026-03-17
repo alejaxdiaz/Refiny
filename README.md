@@ -11,7 +11,7 @@ Select text anywhere, press **Ctrl+Shift+R**, pick a tone, and it replaces in pl
 4. Click **Use** (or press **1** / **2** / **3**) to replace the original text
 5. Press **Esc** to cancel
 
-All suggestions follow the [7 Cs of communication](https://en.wikipedia.org/wiki/7_Cs_of_communication) — clear, concise, and never verbose.
+All suggestions follow the 7 Cs of communication — clear, concise, and never verbose.
 
 ## Quick Start (Download)
 
